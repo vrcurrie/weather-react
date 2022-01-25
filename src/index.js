@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <Weather />
-      <h5>https://github.com/vrcurrie/weather-react</h5>
     </div>
   );
 }

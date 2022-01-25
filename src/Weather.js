@@ -78,7 +78,9 @@ export default function Weather() {
         </form>
       </div>
       <div className="weather-forecast"></div>
-      <h5>https://github.com/vrcurrie/weather-react</h5>
+      <a href="https://github.com/vrcurrie/weather-react">
+        https://github.com/vrcurrie/weather-react
+      </a>
     </div>
   );
 }
